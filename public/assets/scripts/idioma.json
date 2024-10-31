@@ -1,13 +1,11 @@
 {
     "en": {
-      "language1": "English",
-      "language2": "Spanish",
+      "home": "Home"
     
 
     },
     "es": {
-      "language1": "Inglés",
-      "language2": "Español",
+      "home": "Inicio"
       
     }
   }
