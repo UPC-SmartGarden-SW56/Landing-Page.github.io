@@ -1,7 +1,3 @@
 {
-  "read-more": "Ver más",
-  "footer": {
-    "intro": "Hecho con",
-    "author": "por el Equipo de Desarrollo de {{ author }}"
-  }
+  "Welcome_SmartGarden": "Bienvenido a SmartGarden",
 }
