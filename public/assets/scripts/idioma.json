@@ -1,12 +1,10 @@
 {
   "en": {
-    "home": "Home",
-    "about": "About Us",
-    "services": "Services"
+    "navbar-item1": "Home",
+    "navbar-item2": "About Us"
   },
   "es": {
-    "home": "Inicio",
-    "about": "Nosotros",
-    "services": "Servicios"
+    "navbar-item1": "Inicio",
+    "navbar-item2": "Nosotros"
   }
 }
