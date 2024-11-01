@@ -478,6 +478,25 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="public/assets/scripts/main.js"></script>
+
+<script>
+    // Función para cambiar el idioma
+    function changeLanguage(lang) {
+      $.getJSON('path/to/your/translations.json', function(data) {
+        $('.lang').each(function(index, element) {
+          $(this).text(data[lang][$(this).attr('key')]);
+        });
+      });
+    }
+    
+    $(document).ready(function() {
+      // Evento clic para cambiar el idioma
+      $('.translate').click(function() {
+        var lang = $(this).data('lang');
+        changeLanguage(lang);
+      });
+    });
+    </script>
 <!--- Finaly --->
 </body>
 </html>
