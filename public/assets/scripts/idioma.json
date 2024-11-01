@@ -1,11 +1,12 @@
 {
-    "en": {
-      "home": "Home"
-    
-
-    },
-    "es": {
-      "home": "Inicio"
-      
-    }
+  "en": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services"
+  },
+  "es": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios"
   }
+}
