@@ -1,11 +1,60 @@
 {
-    "en": {
-      "home": "Home"
-    
-
-    },
-    "es": {
-      "home": "Inicio"
-      
-    }
+  "en": {
+    "language1": "English",
+    "language2": "Spanish",
+    "navbar-item1": "Home",
+    "navbar-item2": "About Us",
+    "navbar-item4": "Services",
+    "navbar-item5": "Plans",
+    "navbar-item3": "Team",
+    "cardButtonPricing": "Start Now!",
+    "titleHero": "Welcome to SmartGarden",
+    "subTitleHero": "Your Door to the World of Indoor Farming",
+    "subTitleAboutUs": "Who are we?",
+    "bodyAboutUs": "At SmartGarden, we were born from a passion for hydroponics and home gardening. Our mission is to give you tools and knowledge to grow fresh food indoors. From beginners to experts, we are here to support you on your journey towards self-sufficiency and sustainability. Join us as we cultivate a greener, more connected future through indoor farming education.",
+    "title1Footer": "Brand",
+    "subTitle1Footer": "About",
+    "subTitle2Footer": "Services",
+    "subTitle3Footer": "Pricing",
+    "title2Footer": "More",
+    "section2SubTitle1Footer": "FAQ's",
+    "section2SubTitle2Footer": "Privacy & Policy",
+    "section2SubTitle3Footer": "Warranty",
+    "section2SubTitle4Footer": "Shipment",
+    "title3Footer": "Contact",
+    "section3SubTitle1Footer": "Address: Prolongación Primavera 2390, Lima 15023",
+    "section3SubTitle2Footer": "Email: SmartGarden@gmail.com",
+    "section3SubTitle3Footer": "Phone: 926 111 924",
+    "Terms": "© 2024 copyright all rights reserved | Designed by SmartGarden",
+    "student-desc": "We are a team of Software Engineering students from the Peruvian University of Applied Sciences, united to collaborate on the development of a web application. Each member contributes distinct skills and expertise from various domains of software development."
+  },
+  "es": {
+    "language1": "Inglés",
+    "language2": "Español",
+    "navbar-item1": "Inicio",
+    "navbar-item2": "Nosotros",
+    "navbar-item4": "Servicios",
+    "navbar-item5": "Planes",
+    "navbar-item3": "Equipo",
+    "cardButtonPricing": "Empieza Ahora!",
+    "titleHero": "Bienvenido a SmartGarden",
+    "subTitleHero": "Tu puerta al mundo de la hidroponía",
+    "subTitleAboutUs": "¿Quienes somos Nosotros?",
+    "bodyAboutUs": "En SmartGarden, nacimos de una pasión por la hidroponía y la jardinería doméstica. Nuestra misión es brindarle herramientas y conocimientos para cultivar alimentos frescos en interiores. Desde principiantes hasta expertos, estamos aquí para apoyarlo en su viaje hacia la autosuficiencia y la sostenibilidad. Únase a nosotros mientras cultivamos un futuro más verde y conectado a través de la educación sobre agricultura de interior.",
+    "title1Footer": "Marca",
+    "subTitle1Footer": "Nosotros",
+    "subTitle2Footer": "Servicios",
+    "subTitle3Footer": "Precios",
+    "title2Footer": "Más",
+    "section2SubTitle1Footer": "FAQ's",
+    "section2SubTitle2Footer": "Privacidad & Políticas",
+    "section2SubTitle3Footer": "Garantía",
+    "section2SubTitle4Footer": "Envíos",
+    "title3Footer": "Contacto",
+    "section3SubTitle1Footer": "Dirección: Prolongación Primavera 2390, Lima 15023",
+    "section3SubTitle2Footer": "Correo: SmartGarden@gmail.com",
+    "section3SubTitle3Footer": "Teléfono: 926 111 924",
+    "Terms": "© 2024 copyright todos los derechos reservados | Diseñado por SmartGarden",
+    "student-desc": "Somos un equipo de estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Nos hemos unido para formar un equipo de desarrollo que trabaja en una aplicación web. Cada uno de nosotros aporta habilidades y experiencia únicas en diferentes áreas del desarrollo de software."
   }
+}
